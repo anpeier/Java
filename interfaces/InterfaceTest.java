@@ -26,6 +26,8 @@ package interfaces;
  * 8.接口的具体使用，体现多态性
  * 
  * 9.接口，实际上可以看作一种规范
+ * 
+ * 抽象类与接口有哪些异同？
  */
 public class InterfaceTest {
 
